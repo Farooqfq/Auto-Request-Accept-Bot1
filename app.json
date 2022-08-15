@@ -32,7 +32,7 @@
         },
         "APPROVED_WELCOME": {
             "description": "APPROVED_WELCOME On Or Off",
-            "value": "on"
+            "value": "off"
         
     },
     "buildpacks": [
